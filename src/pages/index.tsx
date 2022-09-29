@@ -12,7 +12,10 @@ const Home: React.FC = () => {
 
       <NextImage />
       <h1>ReactJS Structure</h1>
-      <h2> A ReactJS+ Next.js structure made by Douglas</h2>
+      <h2>
+        A ReactJS+ Next.js,TypeScript, ESlint e Styled Components structure made
+        by Douglas
+      </h2>
     </Container>
   )
 }
